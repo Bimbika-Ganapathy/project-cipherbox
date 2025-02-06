@@ -1,2 +1,0 @@
-# CipherBox
-CNS Project
